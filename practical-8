@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href=Art gallery.css">
+</head>
+<body>
+
+<h1>Image Gallery</h1>
+
+<div class="gallery">
+<img src="https://www.artisera.com/cdn/shop/files/1.1_0bbcbd06-4707-4611-b2b6-544c579776e2_720x.jpg?v=1733214016">
+<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/56/cd/3d/tanzara-art-gallery.jpg?w=900&h=500&s=1">
+<img src="https://www.shutterstock.com/image-photo/buenos-aires-argentina-june-22-600nw-2492487273.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1ptMdkKECqarAKg4l1vBZ2hfx_dqmyAUBQ&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1GI0Nq8_XWJxBUlQgymBB_5WXAHkXM4ARw&s">
+<img src="https://d3sftlgbtusmnv.cloudfront.net/blog/wp-content/uploads/2024/11/Art-Galleries-In-Uttar-Pradesh-Cover-Photo-840x425.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK81tyElAc9nI-7sYgEPJlES6GnHGy1tmhHA&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHMyW5IbNT4oKIIGm21zS9nzF7i-mrxupQmQ&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_53LVniEcmm3xXSimHESXetXXGHHeM36Jw&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEsDA9duUKKacQLuHOvYG32goW0UQaY-2-Q&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTee_cbdA0Xr2c-SjmY9lVwlGTfgh98htV29A&s">
+</div>
+</body>
+</html>
